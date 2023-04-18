@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "394732166060",
+    "project_id": "tudo-list-provider",
+    "storage_bucket": "tudo-list-provider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394732166060:android:bcc823d79015a8bec1b809",
+        "android_client_info": {
+          "package_name": "br.com.capsistema.job_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394732166060-7a0arekvf5hdjfh87kkthmb0j8sdnqid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.capsistema.job_time",
+            "certificate_hash": "e3b3ade4d36e257fef50928684fe7119b3989b12"
+          }
+        },
+        {
+          "client_id": "394732166060-n2nm8imr7coalm32nqp301sagpbk1gct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-uAF_Z7ZTukCzOlfM6glZ1fTIznXNWWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394732166060-n2nm8imr7coalm32nqp301sagpbk1gct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "394732166060-0kcosvnlqasn2hnjnbglh7ajstecnjvj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394732166060:android:a85cb286d9b3846fc1b809",
+        "android_client_info": {
+          "package_name": "br.com.capsistema.todo_list_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394732166060-baa1u86v0lo8v6doos61rugn4v8ofip0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.capsistema.todo_list_provider",
+            "certificate_hash": "e3b3ade4d36e257fef50928684fe7119b3989b12"
+          }
+        },
+        {
+          "client_id": "394732166060-n2nm8imr7coalm32nqp301sagpbk1gct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-uAF_Z7ZTukCzOlfM6glZ1fTIznXNWWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394732166060-n2nm8imr7coalm32nqp301sagpbk1gct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "394732166060-0kcosvnlqasn2hnjnbglh7ajstecnjvj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394732166060:android:3ef985d34a553f99c1b809",
+        "android_client_info": {
+          "package_name": "br.com.capsistema.todos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394732166060-3odc17qndguoj01mj9b4ljsvmkkq9rai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.capsistema.todos",
+            "certificate_hash": "e3b3ade4d36e257fef50928684fe7119b3989b12"
+          }
+        },
+        {
+          "client_id": "394732166060-n2nm8imr7coalm32nqp301sagpbk1gct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-uAF_Z7ZTukCzOlfM6glZ1fTIznXNWWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394732166060-n2nm8imr7coalm32nqp301sagpbk1gct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "394732166060-0kcosvnlqasn2hnjnbglh7ajstecnjvj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
