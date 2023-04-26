@@ -2,7 +2,7 @@
     <img src="https://github.com/caneto/job_time/blob/main/p/assets/images/logo.png" width="150" alt="Logo App Vakinha Burger"/>
 </p>
 
-<h1 align="center">Vakinha Burger</h1>
+<h1 align="center">Job Timer</h1>
 
 ---
 
