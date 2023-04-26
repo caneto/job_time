@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../../../core/job_timer_icons.dart';
+import '../../../../core/ui/job_timer_icons.dart';
 import '../../../../entities/project_status.dart';
 import '../../../../view_models/project_model.dart';
 import 'project_detail_appbar.dart';

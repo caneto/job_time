@@ -7,5 +7,10 @@ import 'app/core/app_config.dart';
 
 Future<void> main() async {
   await const AppConfig().configureApp();
-  runApp(ModularApp(module: AppModule(), child: const AppWidget()));
+  runApp(
+    ModularApp(
+      module: AppModule(),
+      child: const AppWidget(),
+    ),
+  );
 }
