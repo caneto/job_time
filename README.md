@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/caneto/job_time/blob/main/p/assets/images/logo.png" width="150" alt="Logo App Vakinha Burger"/>
+    <img src="https://github.com/caneto/job_time/blob/main/assets/images/logo.png" width="150" alt="Logo App Job Timer"/>
 </p>
 
 <h1 align="center">Job Timer</h1>
