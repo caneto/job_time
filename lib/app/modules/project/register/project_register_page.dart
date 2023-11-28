@@ -69,7 +69,7 @@ class _ProjectRegisterPageState extends State<ProjectRegisterPage> {
               ),
               const SizedBox(height: 10),
               SizedBox(
-                width: MediaQuery.of(context).size.width,
+                width: MediaQuery.sizeOf(context).width,
                 height: 49,
                 child: LoadingButton<ProjectRegisterController,
                     ProjectRegisterStatus>(
