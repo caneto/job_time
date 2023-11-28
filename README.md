@@ -55,14 +55,15 @@
   - Task (onde podemos controlar o projeto, com as tasks)
  - Principais packages utilizados.
     - flutter_modular - 5.0.3
-    - asuka - 2.0.2
-    - Bloc - 8.11
-    - flutter_bloc - 8.1.2
-    - provider - 6.0.5
+    - asuka - 2.1.0
+    - Bloc - 8.1.2
+    - flutter_bloc - 8.1.3
     - equatable - 2.0.5
     - validatorless - 1.2.3
     - isar - 3.1.0+1
-    
+    - fl_chart - 0.63.0
+
+    - Atualizado para o Dart 3
     entre outros
 </p>
 
